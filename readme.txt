@@ -1,3 +1,4 @@
 test1
+bjpowernode
+helloworld
 test2
-test3
